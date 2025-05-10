@@ -47,7 +47,6 @@ This project involves analyzing historical sales data for Big Mart stores to unc
 ## 🧑‍💻 Author
 **Om Pawar**  
 M.Sc. Data Science
-[LinkedIn]((https://www.linkedin.com/in/om-m-pawar-2b167b271/))
 
 ---
 
