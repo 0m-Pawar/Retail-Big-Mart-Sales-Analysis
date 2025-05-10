@@ -46,8 +46,8 @@ This project involves analyzing historical sales data for Big Mart stores to unc
 
 ## 🧑‍💻 Author
 **Om Pawar**  
-M.Sc. Data Science | Data Analyst Intern @ Quilytics  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:yourname@gmail.com)
+M.Sc. Data Science
+[LinkedIn]((https://www.linkedin.com/in/om-m-pawar-2b167b271/))
 
 ---
 
